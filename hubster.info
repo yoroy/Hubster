@@ -1,0 +1,37 @@
+name = Hubster
+description = Own your stuff on the internets.
+version = VERSION
+core = 7.x
+dependencies[] = block
+dependencies[] = contextual
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = toolbar
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+dependencies[] = contact
+
+; And some contrib
+dependencies[] = ctools
+dependencies[] = views
+dependencies[] = views_ui
+dependencies[] = markdown
+
+
+
+
+; Information added by drupal.org packaging script on 2012-05-02
+version = "7.15"
+project = "drupal"
+datestamp = "1335997555"
+
